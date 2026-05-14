@@ -18,7 +18,6 @@
 
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-333333?style=flat&logo=webdriverio)
 ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
-![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -41,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 ![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira)
-
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 &nbsp;<div align="center">
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20world%20is%20full%20of%20nice%20people.%20If%20you%20can't%20find%20one,%20be%20one.&author=Unkown%20Author&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
