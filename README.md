@@ -4,10 +4,6 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=-PullRequest,-Commits)](https://github.com/arianeaisawa)
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 </div>
